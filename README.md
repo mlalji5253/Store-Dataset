@@ -4,9 +4,9 @@ An interactive **Microsoft Excel Sales Dashboard** built to analyze retail sales
 
 ## 📊 Dashboard Preview
 
-> *(Upload your dashboard screenshot as `dashboard.png` and uncomment the line below.)*
 
-<!-- ![Dashboard](dashboard.png) -->
+
+![Dashboard](dashboard.png)
 
 ## 🚀 Features
 
